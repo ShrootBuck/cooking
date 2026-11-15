@@ -34,3 +34,7 @@ Start with one tortilla, 3–4 oz chicken, 1/3 cup heated rice, 1/4 cup drained 
 Refrigerate leftovers promptly in shallow containers within two hours (one hour above 90°F); keep refrigerator at 40°F or below. Reheat leftovers to 165°F. Cool rice quickly, ideally within an hour; for a conservative approach use refrigerated rice within 24 hours or freeze portions promptly. Follow package storage instructions for opened products.
 
 Sources: https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety and https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker
+
+## First test feedback
+
+- Amazon Kitchen classic guacamole singles: Zayd says it is nowhere near as good as Chipotle's and skipped it in the test burrito. Finding or making good guacamole is a priority for a future iteration, while keeping the all-Amazon sourcing goal.
